@@ -4,11 +4,13 @@
 
 ### Hi there 👋
 
-My name is Neal. <br/>
+My name is Neal. 
+<br/>
+<br/>
 I'm a software developer from Oudsbergen (Limburg) in Belgium.
 I work as a full-stack developer and my main interests are ASP.Net & Blazor.
+Contacting me is easiest here on Github, or on LinkedIn.
 
-<br/>
 <br/>
 
 <div id="badges">
