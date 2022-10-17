@@ -4,10 +4,12 @@
 
 ### Hi there 👋
 
-My name is Neal. 
+My name is Neal. <br/>
 I'm a software developer from Oudsbergen (Limburg) in Belgium.
 I work as a full-stack developer and my main interests are ASP.Net & Blazor.
 
+<br/>
+<br/>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/nealrobben/">
