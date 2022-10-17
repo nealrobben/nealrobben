@@ -1,8 +1,11 @@
-### Hi there 👋
-
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
+### Hi there 👋
+
+My name is Neal. I'm a software developer from Oudsbergen (Limburg) in Belgium.
+I work as a full-stack developer and my main interests are ASP.Net & Blazor.
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/nealrobben/">
@@ -10,9 +13,11 @@
   </a>
 </div>
 
+[![Website](https://img.shields.io/website?label=nealrobben.be&style=for-the-badge&url=https%3A%2F%2Fnealrobben.be)](https://nealrobben.be)
+
 ---
 
-### :fire: My Stats :
+### My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nealrobben&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
